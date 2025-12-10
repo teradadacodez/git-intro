@@ -1,0 +1,4 @@
+hi this is tj.txt
+i am changing this file to test git stash command
+i have pushed the emergency file for the HOTFIX
+and i am done with the changes in 'tj.txt', now i can finally commit them
