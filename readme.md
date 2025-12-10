@@ -4,4 +4,4 @@
 
 # because that's how you will understand what is in this file and how to use it !
 
-# this is best code in the world and you should use it in you machine learing pipeline !!
+# this is best code in the world and you should use it in your machine learing pipeline !!
